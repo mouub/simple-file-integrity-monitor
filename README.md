@@ -13,13 +13,13 @@ Il software calcola l'impronta digitale (Hash SHA-256) dei file in una cartella 
     * Eliminazione di file.
 * **Ottimizzazione Risorse:** Lettura dei file a blocchi (4KB) per evitare sovraccarico della memoria su file di grandi dimensioni.
 
-## 🛠️ Tecnologie Utilizzate
+##️ Tecnologie Utilizzate
 
 * **Linguaggio:** Python 3
 * **Librerie:** `hashlib` (per crittografia/hashing), `os`, `time`.
 * **Algoritmo:** SHA-256 (Secure Hash Algorithm 256-bit).
 
-## ⚙️ Come usare il tool
+##️ Come usare il tool
 
 1.  Clona la repository:
     ```bash
